@@ -13,6 +13,10 @@ body {
     background-color: #F4F4F4;
 }
 
+.text {
+    color: #ffffff;
+}
+
 section {
     margin: 0 20% 3%;
 }
@@ -23,4 +27,12 @@ section {
 
 .after-head {
     background-color: #AEDCA6;
+}
+
+.alert-popup {
+    background-color: #BC4745;
+}
+
+.alert-popup-danger {
+    background-color: #BC4745;
 }
